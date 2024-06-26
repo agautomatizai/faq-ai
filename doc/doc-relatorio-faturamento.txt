@@ -14,3 +14,4 @@ Informações disponíveis:
 - Quantidade de Veículos: a quantidade total de veículos no período informado, independente do status.
 
 
+Para acessar o tutorial sobre o relatório de faturamento, acesse o link: https://github.com/agautomatizai/faq-ai/blob/main/videos/doc-rel-faturamento.mp4
