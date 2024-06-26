@@ -1,0 +1,16 @@
+Objetivo: o relatório de faturamento tem como objetivo demonstrar toda movimentação financeira da unidade selecionada, dentro de um determinado período.
+
+Informações disponíveis:
+
+1) Quadro de Faturamento - exibe a somatória dos valores totais, os valores são:
+- Valor Líquido: total avulso + total convênio + total parcelado + entrada (movimentação de caixa) - saída (movimentação de caixa)
+- Valor Bruto: total avulso + total convênio + total parcelado + entrada (movimentação de caixa).
+
+2) Quadro de Movimentação de Caixa - exibe toda movimentação de entrada, saída e sangria do caixa da unidade.
+- Detalhamento: é possível verificar no detalhe toda movimentação de entrada, saída e sangria do caixa. 
+
+3) Quadro de Outras Movimentações - exibe as informações gerais do movimento dos veículos na unidade.
+- Total de Descontos: o valor total somado de descontos aplicados nos tickets.
+- Quantidade de Veículos: a quantidade total de veículos no período informado, independente do status.
+
+
