@@ -1,5 +1,12 @@
 Objetivo: o relatório de faturamento tem como objetivo demonstrar toda movimentação financeira da unidade selecionada, dentro de um determinado período.
 
+Como acessar a página do relatório de faturamento:
+Passo 1 - Acesse o site: www.carmob.com.br
+Passo 2 - Informe o login e a senha.
+Passo 3 - Ao logar será redirecionado para a tela do faturamento.
+
+URL da página: https://www.carmob.com.br/relfaturamento.aspx
+
 Informações disponíveis:
 
 1) Quadro de Faturamento - exibe a somatória dos valores totais, os valores são:
@@ -15,3 +22,4 @@ Informações disponíveis:
 
 
 Para acessar o tutorial sobre o relatório de faturamento, acesse o link: https://github.com/agautomatizai/faq-ai/blob/main/videos/doc-rel-faturamento.mp4
+
